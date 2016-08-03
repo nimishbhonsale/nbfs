@@ -1,0 +1,51 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg=sha1; boundary="----190202DA1F25B14FFCA83A806EBFCC2D"
+
+This is an S/MIME signed message
+
+------190202DA1F25B14FFCA83A806EBFCC2D
+[ticket]
+format_version=1.0
+type=simple
+ticket_id=1145
+evid=bourbon.usc.edu_9996_1188496026_20
+user_email=srathi@usc.edu
+client_ip=68.181.201.3
+hash_algorithm=sha1
+hash_value=e8073fbdf96daafe94500602455272edcf853a84
+random_value=7cec09df0ad3256c60b5a77bfd2827a9606064cf
+file_size=69772
+file_name=/auto/home-scf-04/bhonsale/551/final2/final2.tar.gz
+userid=bhonsale
+server_id=bourbon.usc.edu_9996_1188496026
+server_time=1209090522
+server_time_string=24Apr2008-19:28:42
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Do NOT delete this file.  This ticket file is PROOF ;
+; that your submission with the above hash value was  ;
+; received by the server at the time indicated by the ;
+; server_time_string above.  Also, please do NOT      ;
+; alter this file.                                    ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+------190202DA1F25B14FFCA83A806EBFCC2D
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIICEwYJKoZIhvcNAQcCoIICBDCCAgACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3
+DQEHATGCAd8wggHbAgEBMIGEMH8xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJNRDEL
+MAkGA1UEBxMCQ1AxDDAKBgNVBAoTA1VNRDElMCMGA1UECxMcQmlzdHJvLTMwQXVn
+MjAwNy05OTk3LXJvb3RjYTEhMB8GCSqGSIb3DQEJARYSd2lsbGlhbUBjcy51bWQu
+ZWR1AgEUMAkGBSsOAwIaBQCggbEwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAc
+BgkqhkiG9w0BCQUxDxcNMDgwNDI1MDIyODQyWjAjBgkqhkiG9w0BCQQxFgQUJxmJ
+KIoz64TPKNavCVydBH4BdUEwUgYJKoZIhvcNAQkPMUUwQzAKBggqhkiG9w0DBzAO
+BggqhkiG9w0DAgICAIAwDQYIKoZIhvcNAwICAUAwBwYFKw4DAgcwDQYIKoZIhvcN
+AwICASgwDQYJKoZIhvcNAQEBBQAEgYAB1xuUCaAcaksq1FsaceraJ9G9RTyJn5h/
+sFaD6v/4D5wJy4wrzp2HoPeD93wq6SxkQF/NtEAssDvUdsYOTLMG0XZONWFRoF9c
+7K7C4K3tGxrud0XNqeuQqVZogKoULgarE4Ls+otptzrFlAqrowJaJEHkjowJyGtk
+54cxsQlitw==
+
+------190202DA1F25B14FFCA83A806EBFCC2D--
+

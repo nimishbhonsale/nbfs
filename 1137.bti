@@ -1,0 +1,51 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg=sha1; boundary="----EF6911DE48C6A51ED44F3E20242856D0"
+
+This is an S/MIME signed message
+
+------EF6911DE48C6A51ED44F3E20242856D0
+[ticket]
+format_version=1.0
+type=simple
+ticket_id=1137
+evid=bourbon.usc.edu_9996_1188496026_20
+user_email=bhonsale@usc.edu
+client_ip=68.181.201.3
+hash_algorithm=sha1
+hash_value=8db8c88ce33951cba0b9f2b0ac1ffd021618a015
+random_value=c8e998db6d4521e6858ab6f5101c5726f98421f0
+file_size=69040
+file_name=/auto/home-scf-04/bhonsale/551/final2/final2.tar.gz
+userid=bhonsale
+server_id=bourbon.usc.edu_9996_1188496026
+server_time=1208747958
+server_time_string=20Apr2008-20:19:18
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Do NOT delete this file.  This ticket file is PROOF ;
+; that your submission with the above hash value was  ;
+; received by the server at the time indicated by the ;
+; server_time_string above.  Also, please do NOT      ;
+; alter this file.                                    ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+------EF6911DE48C6A51ED44F3E20242856D0
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIICEwYJKoZIhvcNAQcCoIICBDCCAgACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3
+DQEHATGCAd8wggHbAgEBMIGEMH8xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJNRDEL
+MAkGA1UEBxMCQ1AxDDAKBgNVBAoTA1VNRDElMCMGA1UECxMcQmlzdHJvLTMwQXVn
+MjAwNy05OTk3LXJvb3RjYTEhMB8GCSqGSIb3DQEJARYSd2lsbGlhbUBjcy51bWQu
+ZWR1AgEUMAkGBSsOAwIaBQCggbEwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAc
+BgkqhkiG9w0BCQUxDxcNMDgwNDIxMDMxOTE4WjAjBgkqhkiG9w0BCQQxFgQU4SpL
+L1ZE7PBAaoWax4pr2wkUA/kwUgYJKoZIhvcNAQkPMUUwQzAKBggqhkiG9w0DBzAO
+BggqhkiG9w0DAgICAIAwDQYIKoZIhvcNAwICAUAwBwYFKw4DAgcwDQYIKoZIhvcN
+AwICASgwDQYJKoZIhvcNAQEBBQAEgYAxOFH9B2d3uldcKKgij6sK0SKAaz4nknfC
+hRPPYGqDXgVsG4RrZ5FiBUUYoPHjIYhlC+YjuZ+LhPjfF3nFWebz2ijpwlICNstl
+NwUr8okI3jtGytay9sZwcYYf6c9NdjS75C5ZAi4UZiH7mEqxkoT9Wb71MQbahVW6
+pvx3NLXg6w==
+
+------EF6911DE48C6A51ED44F3E20242856D0--
+

@@ -1,0 +1,51 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg=sha1; boundary="----EF8CBD063EC785C64E1FE21FAEF1A63C"
+
+This is an S/MIME signed message
+
+------EF8CBD063EC785C64E1FE21FAEF1A63C
+[ticket]
+format_version=1.0
+type=simple
+ticket_id=1134
+evid=bourbon.usc.edu_9996_1188496026_20
+user_email=bhonsale@usc.edu
+client_ip=68.181.201.3
+hash_algorithm=sha1
+hash_value=8f153a4ffbb33ed4b4a25a36968d46196c85ec66
+random_value=077d4f940e923abd5e75a9ac3953fc36fc97634c
+file_size=63634
+file_name=/auto/home-scf-04/bhonsale/551/final2/final2.tar.gz
+userid=bhonsale
+server_id=bourbon.usc.edu_9996_1188496026
+server_time=1208661309
+server_time_string=19Apr2008-20:15:09
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Do NOT delete this file.  This ticket file is PROOF ;
+; that your submission with the above hash value was  ;
+; received by the server at the time indicated by the ;
+; server_time_string above.  Also, please do NOT      ;
+; alter this file.                                    ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+------EF8CBD063EC785C64E1FE21FAEF1A63C
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIICEwYJKoZIhvcNAQcCoIICBDCCAgACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3
+DQEHATGCAd8wggHbAgEBMIGEMH8xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJNRDEL
+MAkGA1UEBxMCQ1AxDDAKBgNVBAoTA1VNRDElMCMGA1UECxMcQmlzdHJvLTMwQXVn
+MjAwNy05OTk3LXJvb3RjYTEhMB8GCSqGSIb3DQEJARYSd2lsbGlhbUBjcy51bWQu
+ZWR1AgEUMAkGBSsOAwIaBQCggbEwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAc
+BgkqhkiG9w0BCQUxDxcNMDgwNDIwMDMxNTA5WjAjBgkqhkiG9w0BCQQxFgQUxfYk
+51AmB13ZoaTj5IO3svFVYkMwUgYJKoZIhvcNAQkPMUUwQzAKBggqhkiG9w0DBzAO
+BggqhkiG9w0DAgICAIAwDQYIKoZIhvcNAwICAUAwBwYFKw4DAgcwDQYIKoZIhvcN
+AwICASgwDQYJKoZIhvcNAQEBBQAEgYBDY1K88EMrC67a+Ei/7fnmohzH5QCAnpYj
+xCoGoZaiOCjLpvxleZiq+oQ2NoNu3TqQ4kkuztG5ET1TdbrobKzAmvLD6LpENmiQ
+4AWreZ/wdPO1JFXRQX6bFNoHcW0bgmvaqzsVt6oQqbdvjiK7tB/R9bzfPhSVwP5O
+UtN333C6DQ==
+
+------EF8CBD063EC785C64E1FE21FAEF1A63C--
+
